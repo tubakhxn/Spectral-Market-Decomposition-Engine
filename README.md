@@ -1,6 +1,7 @@
 ### Dev/Creator: tubakhxn
 
 # Spectral Market Decomposition Engine
+<img width="2883" height="1491" alt="image" src="https://github.com/user-attachments/assets/f08fe44c-87ae-45fd-a9a4-c040970b4490" />
 
 This project is a production-level Streamlit application for advanced frequency decomposition and spectral analysis of financial time series using Fast Fourier Transform (FFT).
 
@@ -43,3 +44,4 @@ It is designed for quantitative finance, signal processing, and scientific resea
 ---
 
 Enjoy exploring the spectral structure of financial markets!
+
